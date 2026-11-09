@@ -1,4 +1,4 @@
-# kindle-pw3-mods
+# Kindle PW3 Etch A Sketch Calendar
 
 Notes, scripts and config for my jailbroken **Kindle Paperwhite 3 (7th gen, 2015)**, mainly:
 

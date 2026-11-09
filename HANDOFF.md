@@ -50,7 +50,7 @@ Nothing in `documents/`, `koreader/`, `linkss/`, or the jailbreak files was touc
 | Spotlight on `/Volumes/Kindle` | `sudo mdutil -i off` | `sudo mdutil -i on /Volumes/Kindle` |
 | `~/.kindle-ssh/id_ed25519{,.pub}` | **Added** an SSH key for the Kindle (not installed on it; not needed). | `rm -rf ~/.kindle-ssh` |
 | `/tmp/kindle_known_hosts` | Kindle host key cached during the session (temporary). | none needed |
-| This repo | `~/Documents/GitHub/kindle-pw3-mods` | — |
+| This repo | `~/Documents/GitHub/kindle-pw3-etch-a-sketch-calendar` | — |
 
 ## How to verify
 
