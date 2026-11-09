@@ -6,6 +6,7 @@ Notes, scripts and config for my jailbroken **Kindle Paperwhite 3 (7th gen, 2015
 - Installing **USBNetwork** and getting **SSH over USB** working from a Mac
 - Repairing the Kindle's FAT32 storage when installs fail
 - How the work was done with **Claude** driving the Mac (and the Kindle over SSH)
+- A **3D-printable fridge mount** for showing a calendar — see [fridge-mount/](fridge-mount/)
 
 **Start with [HANDOFF.md](HANDOFF.md)** — a complete list of every change made to the Kindle and the Mac, and how to undo each one.
 
@@ -36,6 +37,9 @@ docs/
   usbnetwork.md             Installing USBNetwork via MRPI and connecting over SSH
   troubleshooting.md        Every error hit along the way and its fix
   claude-workflow.md        How Claude was connected and what it did
+fridge-mount/               3D-printable magnetic fridge frame (Etch-A-Sketch style)
+  stl/                      Print-ready parts
+  cad/                      Parametric CadQuery source + STEP assembly
 ```
 
 ## Quick start
